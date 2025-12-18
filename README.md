@@ -25,5 +25,6 @@ Support data-driven decision-making for resource allocation and cost management.
 - How to create a Pivot Table
 - How to summarise KPIs using the Pivot Table
 - How to visualise insights in Excel using Pivot Table analysis
+- How to represent my findings and give recommendation using Microsoft Power Point
 
 
