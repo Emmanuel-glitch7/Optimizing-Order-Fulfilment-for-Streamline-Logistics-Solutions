@@ -1,4 +1,4 @@
-# Optimizing-Order-Fulfilment-for-Streamline-Logistics-Solution
+# Optimizing Order Fulfilment for Streamline Logistics Solution
 The project will design and implement an interactive Excel dashboard to optimize order fulfilment, providing real-time visibility and actionable insights.
 ## 🔧 Tools used
 - Microsoft Excel
