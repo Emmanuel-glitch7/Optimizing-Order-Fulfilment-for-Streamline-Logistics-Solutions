@@ -2,7 +2,7 @@
 The project will design and implement an interactive Excel dashboard to optimize order fulfilment, providing real-time visibility and actionable insights.
 ## 🔧 Tools used
 - Microsoft Excel
-- Google Sheet
+- Looker Studio
 - Microsoft Powerpoint
 
 ## 👀 Project Overview
@@ -21,10 +21,9 @@ Improve communication across operations and customer service teams.
 Support data-driven decision-making for resource allocation and cost management.
 
 ## 💡 What I Learnt
-- How to clean Messy Excel data using formular
-- How to create a Pivot Table
-- How to summarise KPIs using the Pivot Table
-- How to visualise insights in Excel using Pivot Table analysis
+- How to clean Messy Excel data using Power Query
+- How to summarise KPIs in Looker Studio
+- How to visualise insights in Excel using Looker Studio
 - How to represent my findings and give recommendation using Microsoft Power Point
 
 ## 🔗 Preview
